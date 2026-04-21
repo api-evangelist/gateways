@@ -1,0 +1,73 @@
+aid: gateways
+name: Gateways
+description: >-
+  A curated index of API, AI, data, and event gateways including cloud-managed
+  services, open source projects, and commercial platforms that route, secure,
+  and manage traffic across APIs, AI models, data pipelines, and event-driven
+  architectures.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - AI Gateways
+  - API Gateways
+  - Data Gateways
+  - Event Gateways
+  - Gateways
+url: https://raw.githubusercontent.com/api-evangelist/gateways/refs/heads/main/apis.yml
+created: '2026-04-21'
+modified: '2026-04-21'
+specificationVersion: '0.19'
+network:
+  - name: AgentGateway
+    url: https://raw.githubusercontent.com/api-evangelist/agentgateway/refs/heads/main/apis.yml
+  - name: AIMLAPI
+    url: https://raw.githubusercontent.com/api-evangelist/aimlapi/refs/heads/main/apis.yml
+  - name: Amazon API Gateway
+    url: https://raw.githubusercontent.com/api-evangelist/amazon-api-gateway/refs/heads/main/apis.yml
+  - name: Amazon Storage Gateway
+    url: https://raw.githubusercontent.com/api-evangelist/amazon-storage-gateway/refs/heads/main/apis.yml
+  - name: Amazon Transit Gateway
+    url: https://raw.githubusercontent.com/api-evangelist/amazon-transit-gateway/refs/heads/main/apis.yml
+  - name: Ambassador
+    url: https://raw.githubusercontent.com/api-evangelist/ambassador/refs/heads/main/apis.yml
+  - name: Apache APISIX
+    url: https://raw.githubusercontent.com/api-evangelist/apache-apisix/refs/heads/main/apis.yml
+  - name: Apigee
+    url: https://raw.githubusercontent.com/api-evangelist/apigee/refs/heads/main/apis.yml
+  - name: APIIDA
+    url: https://raw.githubusercontent.com/api-evangelist/apiida/refs/heads/main/apis.yml
+  - name: Apinizer
+    url: https://raw.githubusercontent.com/api-evangelist/apinizer/refs/heads/main/apis.yml
+  - name: APIPark
+    url: https://raw.githubusercontent.com/api-evangelist/apipark/refs/heads/main/apis.yml
+  - name: AWS API Gateway
+    url: https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
+  - name: Azure API Management
+    url: https://raw.githubusercontent.com/api-evangelist/azure-api-management/refs/heads/main/apis.yml
+  - name: Axway
+    url: https://raw.githubusercontent.com/api-evangelist/axway/refs/heads/main/apis.yml
+  - name: Bifrost
+    url: https://raw.githubusercontent.com/api-evangelist/bifrost/refs/heads/main/apis.yml
+  - name: Fusio
+    url: https://raw.githubusercontent.com/api-evangelist/fusio/refs/heads/main/apis.yml
+  - name: Kong
+    url: https://raw.githubusercontent.com/api-evangelist/kong/refs/heads/main/apis.yml
+  - name: MuleSoft
+    url: https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
+  - name: NGINX
+    url: https://raw.githubusercontent.com/api-evangelist/nginx/refs/heads/main/apis.yml
+  - name: Ocelot
+    url: https://raw.githubusercontent.com/api-evangelist/ocelot/refs/heads/main/apis.yml
+  - name: osmAPI
+    url: https://raw.githubusercontent.com/api-evangelist/osmapi/refs/heads/main/apis.yml
+  - name: Red Hat 3scale
+    url: https://raw.githubusercontent.com/api-evangelist/red-hat-3scale/refs/heads/main/apis.yml
+  - name: Solo.io
+    url: https://raw.githubusercontent.com/api-evangelist/solo/refs/heads/main/apis.yml
+  - name: Spring Cloud Gateway
+    url: https://raw.githubusercontent.com/api-evangelist/spring-cloud-gateway/refs/heads/main/apis.yml
+  - name: Tyk
+    url: https://raw.githubusercontent.com/api-evangelist/tyk/refs/heads/main/apis.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
