@@ -6,7 +6,7 @@ description: >-
   and manage traffic across APIs, AI models, data pipelines, and event-driven
   architectures.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - AI Gateways
   - API Gateways
