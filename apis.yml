@@ -27,7 +27,7 @@ tags:
 url: https://raw.githubusercontent.com/api-evangelist/gateways/refs/heads/main/apis.yml
 created: '2026-04-21'
 modified: '2026-04-21'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 network:
   - name: AgentGateway
     url: https://raw.githubusercontent.com/api-evangelist/agentgateway/refs/heads/main/apis.yml
