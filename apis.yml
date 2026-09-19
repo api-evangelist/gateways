@@ -35,6 +35,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gateways.png
 tags:
+  - AI Gateway
+  - API Gateways
+  - Data Gateways
+  - Event Gateways
+  - Gateways
+tags_raw:
   - AI Gateways
   - API Gateways
   - Data Gateways
