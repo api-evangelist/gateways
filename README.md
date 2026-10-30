@@ -1,4 +1,4 @@
-# Gateways (gateways)
+# gateways
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,27 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-A curated index of API, AI, data, and event gateways including cloud-managed services, open source projects, and commercial platforms that route, secure, and manage traffic across APIs, AI models, data pipelines, and event-driven architectures.
+## gateways on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/gateways/refs/heads/main/apis.yml)
+Everything profiled for gateways is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gateways/](https://apis.io/providers/gateways/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Not yet rated. See [apis.io/providers/gateways/](https://apis.io/providers/gateways/).
 
-## Tags:
+## How this profile is made
 
- - Gateways, API Gateways, AI Gateways, Data Gateways, Event Gateways
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for gateways: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2026-04-21 
-- **Modified:** 2026-04-21 
+## Open an issue
 
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gateways/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
